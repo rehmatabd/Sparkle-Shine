@@ -1,2 +1,10 @@
-# Sparkle-Shine
-Sparkle Shine Car Wash At Sparkle Shine Car Wash, we take pride in providing top-notch vehicle cleaning services that leave your car looking brand new. With a commitment to quality, convenience, and eco-friendly practices, we offer a variety of car washing options to suit your needs—from basic exterior washes to complete interior detailiing
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Car Wash</title></head>
+<body>
+    <h1>Welcome to Clean Ride Car Wash</h1>
+    <p>We offer Basic, Deluxe, and Premium washes to keep your car looking new!</p>
+    <ul><li>Basic Wash: $10</li><li>Deluxe Wash: $25</li><li>Premium Wash: $40</li></ul>
+    <footer><p>Contact us at info@cleanride.com</p></footer>
+</body>
+</html>
